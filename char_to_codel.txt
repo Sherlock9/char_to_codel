@@ -1,5 +1,8 @@
 # char_to_codel.txt
 
+To use char_to_codel.py, run "python char_to_codel.py [codel size] [filename of code to be read] [optionally, the filename of the output image]"
+For example, "python char_to_codel.py 20 hello_world.txt", which creates a .png "hello_world_20.png" or "python char_to_codel.py 5 hello_world.txt hello_world.png" which creates "hello_world.png"
+
 The mapping
 
 black    k
